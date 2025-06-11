@@ -15,11 +15,12 @@ My focus right now is on Python, once I feel that I'm good enough, I want to lea
 
 ## Social
 
-- You can find me on multiple platforms:<br>
-    - GitHub:$~~~$[`Akeoott`](https://github.com/Akeoott)<br>
-    - PyPI:$~~~~~~~$[`Akeoott`](https://pypi.org/user/Akeoott/)<br>
-    - Discord:$~~$[`akeoot`](https://discord.com/users/898223580104519711)<br>
-    - TikTok:$~~~~$[`@akeoot`](https://www.tiktok.com/@akeoot)<br>
+| Platform | Link |
+| :------- | :--- |
+| GitHub   | [`Akeoott`](https://github.com/Akeoott) |
+| PyPI     | [`Akeoott`](https://pypi.org/user/Akeoott/) |
+| Discord  | [`akeoot`](https://discord.com/users/898223580104519711) |
+| TikTok   | [`@akeoot`](https://www.tiktok.com/@akeoot) |
 
 > [!NOTE]
 > Every account that **isnt** about coding usually has the name: `akeoot`.<br>
