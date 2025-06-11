@@ -4,8 +4,6 @@ Welcome to my GitHub profile!<br>
 I'm Akeoott, also known as Ame.<br>
 This special repository serves as a central hub for my coding journey and projects.
 
-<br>
-
 ## About Me
 
 - I started my coding adventure on **February 20th, 2025**.<br>
@@ -14,8 +12,6 @@ This special repository serves as a central hub for my coding journey and projec
     - It saw its initial commit on **April 29th, 2025**, marking the beginning of my active development work.
 
 My focus right now is on Python, once I feel that I'm good enough, I want to learn C#.
-
-<br>
 
 ## Social
 
@@ -30,14 +26,10 @@ My focus right now is on Python, once I feel that I'm good enough, I want to lea
 > And if it does it usually has the name: `Akeoott`.<br>
 > With or without capitalization.<br>
 
-<br>
-
 ## My Organization: Akeoott-Projects
 
 I also operate under the GitHub organization `Akeoott-Projects`.<br>
 This organization will house more collaborative or larger-scale projects.
-
-<br>
 
 ## My Projects
 
