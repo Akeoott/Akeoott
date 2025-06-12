@@ -36,26 +36,26 @@
             <div>
                 <b>A bit about my jurney in coding:</b>
                 <ul>
-                    <li>I started my coding adventure on <b>February 20th, 2025</b>.</li>
-                    <li>It's been an incredibly fast-paced and exciting journey since then!</li>
-                    <li>My first ever "real" project, <code>GitHub-Activity-Fetcher</code>.
+                    <li>I started coding on <b>February 20th, 2025</b>.</li>
+                    <li>It's been an incredibly fast paced and an exciting journey since then!</li>
+                    <li>My first ever "real" project, <code><a href="https://github.com/Akeoott-Projects/GitHub-Activity-Fetcher">GitHub-Activity-Fetcher</a></code>.
                         <ul>
                             <li>It saw its initial commit on <b>April 29th, 2025</b>,<br>marking the beginning of my active development work</li>
                         </ul>
                     </li>
                 </ul>
                 <p>
-                    My focus right now is on Python, once I feel that I'm good enough, I want to learn C#.
+                    My focus right now is on Python. Once I feel that I'm good enough, I want to learn C#.
                 </p>
             </div>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <h2>My GitHub Organization: Akeoott-Projects</h2>
+            <h2>My GitHub Organization: <a href="https://github.com/Akeoott-Projects">Akeoott-Projects</a></h2>
             <p>
-                I also operate under the GitHub organization <code>Akeoott-Projects</code>.<br>
-                This organization will house more collaborative or larger projects.<br>
+                This organization will house more collaborative or larger projects of mine.<br>
+                It ultimately is a display of all i knowledge and how I have progressed so far.
                 <blockquote>even if im currently alone ;-;</blockquote>
             </p>
         </td>
