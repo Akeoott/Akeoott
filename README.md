@@ -1,53 +1,94 @@
-# Hi, I'm Ame👋
+<div align="center">
+    <h2>Hello Human👋</h2>
+    <p>
+        Welcome to my GitHub profile!<br>
+        I'm Ame, also known as Akeoott.<br>
+    </p>
+</div>
 
-Welcome to my GitHub profile!<br>
-I'm Akeoott, also known as Ame.<br>
-This special repository serves as a central hub for my coding journey and projects.
+<table align="center">
+    <tr>
+        <td valign="top" style="padding-right: 32px;">
+            <table>
+                <tr>
+                    <th align="left">Social</th>
+                    <th align="left">Links</th>
+                </tr>
+                <tr>
+                    <td>GitHub</td>
+                    <td><a href="https://github.com/Akeoott"><code>Akeoott</code></a></td>
+                </tr>
+                <tr>
+                    <td>PyPI</td>
+                    <td><a href="https://pypi.org/user/Akeoott/"><code>Akeoott</code></a></td>
+                </tr>
+                <tr>
+                    <td>Discord</td>
+                    <td><a href="https://discord.com/users/898223580104519711"><code>akeoot</code></a></td>
+                </tr>
+                <tr>
+                    <td>TikTok</td>
+                    <td><a href="https://www.tiktok.com/@akeoot"><code>@akeoot</code></a></td>
+                </tr>
+            </table>
+        </td>
+        <td valign="top">
+            <div>
+                <b>A bit about my jurney in coding:</b>
+                <ul>
+                    <li>I started my coding adventure on <b>February 20th, 2025</b>.</li>
+                    <li>It's been an incredibly fast-paced and exciting journey since then!</li>
+                    <li>My first ever "real" project, <code>GitHub-Activity-Fetcher</code>.
+                        <ul>
+                            <li>It saw its initial commit on <b>April 29th, 2025</b>,<br>marking the beginning of my active development work</li>
+                        </ul>
+                    </li>
+                </ul>
+                <p>
+                    My focus right now is on Python, once I feel that I'm good enough, I want to learn C#.
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <h2>My GitHub Organization: Akeoott-Projects</h2>
+            <p>
+                I also operate under the GitHub organization <code>Akeoott-Projects</code>.<br>
+                This organization will house more collaborative or larger projects.<br>
+                <blockquote>even if im currently alone ;-;</blockquote>
+            </p>
+        </td>
+    </tr>
+</table>
 
-## About Me
+<details>
+    <summary align="center"><h2>My GitHub stats</h2></summary>
+    <br>
+    <table align="center">
+        <tr>
+            <td colspan="2" align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=Akeoott&theme=dark&show_icons=true&include_all_commits=true&locale=en&count_private=true" alt="General Statistics" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akeoott&theme=dark" alt="Streak Stats" />
+            </td>
+            <td align="center">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akeoott&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=xcode&bg_color=151515" alt="Activity Graph" />
+            </td>
+        </tr>
+    </table>
+</details>
 
-- I started my coding adventure on **February 20th, 2025**.<br>
-- It's been an incredibly fast-paced and exciting journey since then!<br>
-- My first ever "real" project, `GitHub-Activity-Fetcher`.<br>
-    - It saw its initial commit on **April 29th, 2025**, marking the beginning of my active development work.
+<hr>
 
-My focus right now is on Python, once I feel that I'm good enough, I want to learn C#.
-
-## Social
-
-| Platform | Link |
-| :------- | :--- |
-| GitHub   | [`Akeoott`](https://github.com/Akeoott) |
-| PyPI     | [`Akeoott`](https://pypi.org/user/Akeoott/) |
-| Discord  | [`akeoot`](https://discord.com/users/898223580104519711) |
-| TikTok   | [`@akeoot`](https://www.tiktok.com/@akeoot) |
-
-> [!NOTE]
-> Every account that **isnt** about coding usually has the name: `akeoot`.<br>
-> And if it does it usually has the name: `Akeoott`.<br>
-> With or without capitalization.<br>
-
-## My Organization: Akeoott-Projects
-
-I also operate under the GitHub organization `Akeoott-Projects`.<br>
-This organization will house more collaborative or larger-scale projects.
-
-## My Projects
-
-#### Here are some of the projects I'm actively working on or have completed:
-
-- ### `GitHub-Activity-Fetcher`
-
-    A lightweight Python tool designed to fetch and display GitHub user activity.<br>
-    It leverages the GitHub REST API and offers features like rate limit feedback, JSON saving, and a user-friendly GUI.<br>
-    This was my very first serious project!
-
-- ### `akeoott-logging-config` (My Custom Logging Library)
-
-    A simple yet robust Python logging configuration library.<br>
-    It provides a flexible way to manage logging in applications, allowing for console output, file saving, custom formatting, and even silencing third-party loggers.<br>
-    I even use it for my current projects!
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and connect.
+<div align="center">
+    <h3>Thanks for stopping by! Feel free to explore my repositories and connect.</h3>
+</div>
