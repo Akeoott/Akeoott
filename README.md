@@ -55,7 +55,7 @@
             <h2>My GitHub Organization: <a href="https://github.com/Akeoott-Projects">Akeoott-Projects</a></h2>
             <p>
                 This organization will house more collaborative or larger projects of mine.<br>
-                It ultimately is a display of all i knowledge and how I have progressed so far.
+                It ultimately is a display of all my knowledge and how I have progressed so far.
                 <blockquote>even if im currently alone ;-;</blockquote>
             </p>
         </td>
