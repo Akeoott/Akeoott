@@ -34,7 +34,7 @@
         </td>
         <td valign="top">
             <div>
-                <b>A bit about my jurney in coding:</b>
+                <b>A bit about my coding jurney:</b>
                 <ul>
                     <li>I started coding on <b>February 20th, 2025</b>.</li>
                     <li>It's been an incredibly fast paced and an exciting journey since then!</li>
@@ -55,7 +55,7 @@
             <h2>My GitHub Organization: <a href="https://github.com/Akeoott-Projects">Akeoott-Projects</a></h2>
             <p>
                 This organization will house more collaborative or larger projects of mine.<br>
-                It ultimately is a display of all my knowledge and how I have progressed so far.
+                It's ultimately a display of all my knowledge and how I have progressed so far.
                 <blockquote>even if im currently alone ;-;</blockquote>
             </p>
         </td>
