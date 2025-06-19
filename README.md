@@ -73,7 +73,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akeoott&theme=dark" alt="Streak Stats" />
+                <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akeoott&theme=tokyonight&theme=dark" alt="Streak Stats" />
             </td>
             <td align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akeoott&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
