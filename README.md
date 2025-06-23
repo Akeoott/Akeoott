@@ -30,6 +30,10 @@
                     <td>TikTok</td>
                     <td><a href="https://www.tiktok.com/@akeoot"><code>@akeoot</code></a></td>
                 </tr>
+                <tr>
+                    <td>x.com</td>
+                    <td><a href="https://x.com/akeoott"><code>@akeoott</code></a></td>
+                </tr>
             </table>
         </td>
         <td valign="top">
