@@ -53,7 +53,7 @@
                 This organization will house more collaborative or larger projects of mine.<br>
                 It's ultimately a display of all my knowledge and how I have progressed so far.
                 <blockquote>even if im currently alone ;-;</blockquote>
-                <blockquote><p style="color:yellow;">plz join me</p></blockquote>
+                <blockquote>$${\color{yellow}plz \space join \space me}$$</blockquote>
                 <img src="https://github.com/Akeoott/Akeoott/blob/main/images/i-located-an-almost-high-quality-image-of-the-disappearing-v0-297l8kz0ysba1.webp" width="75" />
             </p>
         </td>
@@ -84,18 +84,19 @@
             <td><a href="https://x.com/akeoott"><code>@akeoott</code></a></td>
         </tr>
         <tr>
-            <td><p style="color:yellow;">Advertisements:</p></td>
-            <td><p style="color:yellow;">YOU have to think this thru.<br>DOWNLOAD NOW!</p></td> </tr>
+            <td>$${\color{yellow}Advertisements:}$$</td>
+            <td>$${\color{yellow}You \space have \space to \space think \space this \space thru}$$<br>$${\color{yellow}DOWNLOAD \space NOW!}$$</td>
+        </tr>
         <tr>
-            <td><p style="color:red;">Use Arch Linux</p></td>
+            <td>$${\color{red}Use \space Arch \space Linux}$$</td>
             <td><a href="https://archlinux.org/"><code>I use arch btw</code></a></td>
         </tr>
         <tr>
-            <td><p style="color:red;">Play osu!</p></td>
+            <td>$${\color{red}Play \space osu!}$$</td>
             <td><a href="https://osu.ppy.sh/"><code>Click the Circles!</code></a></td>
         </tr>
         <tr>
-            <td><p style="color:red;">Super Tux Kart</p></td>
+            <td>$${\color{red}Super \space Tux \space Kart}$$</td>
             <td><a href="https://supertuxkart.net/Download"><code>I love Tux!</code></a></td>
         </tr>
         <tr>
