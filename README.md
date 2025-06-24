@@ -26,19 +26,11 @@
                     <td>Discord</td>
                     <td><a href="https://discord.com/users/898223580104519711"><code>akeoot</code></a></td>
                 </tr>
-                <tr>
-                    <td>TikTok</td>
-                    <td><a href="https://www.tiktok.com/@akeoot"><code>@akeoot</code></a></td>
-                </tr>
-                <tr>
-                    <td>x.com</td>
-                    <td><a href="https://x.com/akeoott"><code>@akeoott</code></a></td>
-                </tr>
             </table>
         </td>
         <td valign="top">
             <div>
-                <b>A bit about my coding jurney:</b>
+                <b>A bit about my coding journey:</b>
                 <ul>
                     <li>I started coding on <b>February 20th, 2025</b>.</li>
                     <li>It's been an incredibly fast paced and an exciting journey since then!</li>
@@ -61,10 +53,58 @@
                 This organization will house more collaborative or larger projects of mine.<br>
                 It's ultimately a display of all my knowledge and how I have progressed so far.
                 <blockquote>even if im currently alone ;-;</blockquote>
+                <blockquote><p style="color:yellow;">plz join me</p></blockquote>
+                <img src="https://github.com/Akeoott/Akeoott/blob/main/images/i-located-an-almost-high-quality-image-of-the-disappearing-v0-297l8kz0ysba1.webp" width="75" />
             </p>
         </td>
     </tr>
 </table>
+
+<details>
+    <summary align="center"><h2>Additional Social Links</h2></summary>
+    <br>
+    <table align="center"> <tr>
+            <th align="left">Social</th>
+            <th align="left">Links</th>
+        </tr>
+        <tr>
+            <td>osu!</td>
+            <td><a href="https://osu.ppy.sh/users/36050791/mania"><code>Akeoot</code></a></td>
+        </tr>
+        <tr>
+            <td>Steam</td>
+            <td><a href="https://steamcommunity.com/id/Akeoot"><code>Akeoot</code></a></td>
+        </tr>
+        <tr>
+            <td>TikTok</td>
+            <td><a href="https://www.tiktok.com/@akeoot"><code>@akeoot</code></a></td>
+        </tr>
+        <tr>
+            <td>X (Twitter)</td>
+            <td><a href="https://x.com/akeoott"><code>@akeoott</code></a></td>
+        </tr>
+        <tr>
+            <td><p style="color:yellow;">Advertisements:</p></td>
+            <td><p style="color:yellow;">YOU have to think this thru.<br>DOWNLOAD NOW!</p></td> </tr>
+        <tr>
+            <td><p style="color:red;">Use Arch Linux</p></td>
+            <td><a href="https://archlinux.org/"><code>I use arch btw</code></a></td>
+        </tr>
+        <tr>
+            <td><p style="color:red;">Play osu!</p></td>
+            <td><a href="https://osu.ppy.sh/"><code>Click the Circles!</code></a></td>
+        </tr>
+        <tr>
+            <td><p style="color:red;">Super Tux Kart</p></td>
+            <td><a href="https://supertuxkart.net/Download"><code>I love Tux!</code></a></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <img src="https://github.com/Akeoott/Akeoott/blob/main/images/%252B15_Social_Credit.webp" width="300" />
+            </td>
+        </tr>
+    </table>
+</details>
 
 <details>
     <summary align="center"><h2>My GitHub stats</h2></summary>
