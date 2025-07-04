@@ -62,7 +62,6 @@
 
 <details>
     <summary align="center"><h2>Additional Social Links</h2></summary>
-    <br>
     <table align="center"> <tr>
             <th align="left">Social</th>
             <th align="left">Links</th>
@@ -108,8 +107,24 @@
 </details>
 
 <details>
+    <summary align="center"><h2>My Current Projects</h2></summary>
+    <table align="center"> <tr>
+            <th><h2>Public</h2>$${\color{grey}(Open \space Source)}$$</th>
+            <th><h2>Private</h2>$${\color{grey}(Closed \space Source)}$$</th>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://github.com/Akeoott-Projects/YouTube-Downloader"><code>YouTube-Downloader</code></a></td>
+            <td align="center"><a href=""><code>Modular AI (WIP)</code></a></td>
+        </tr>
+        <tr>
+            <td><p align="center">Downloads videos/audio from youtube.<br>Im aware of improvements i can make,<br>they will come.</p></td>
+            <td><p align="center">Currently working on an AI for general purpouse tasks.<br>Still figuring things out.</p></td>
+        </tr>
+    </table>
+</details>
+
+<details>
     <summary align="center"><h2>My GitHub stats</h2></summary>
-    <br>
     <table align="center">
         <tr>
             <td colspan="2" align="center">
