@@ -113,11 +113,11 @@
             <th><h2>Private</h2>$${\color{grey}(Closed \space Source)}$$</th>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/Akeoott-Projects/YouTube-Downloader"><code>YouTube-Downloader</code></a></td>
+            <td align="center"><a href="https://akeoot.org/"><code>akeoot.org</code></a></td>
             <td align="center"><a href=""><code>Modular AI (WIP)</code></a></td>
         </tr>
         <tr>
-            <td><p align="center">Downloads videos/audio from youtube.<br>Im aware of improvements i can make,<br>they will come.</p></td>
+            <td><p align="center">My own domain with my own website!<br>Currently working on it, making it look pretteh.</p></td>
             <td><p align="center">Currently working on an AI for general purpouse tasks.<br>Still figuring things out.</p></td>
         </tr>
     </table>
