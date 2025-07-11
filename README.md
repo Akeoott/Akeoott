@@ -3,6 +3,8 @@
     <p>
         Welcome to my GitHub profile!<br>
         I'm Ame, also known as Akeoott.<br>
+        <br>
+        VISIT MY WEBSITE! <a href="https://akeoot.org/"><code>akeoot.org</code></a>
     </p>
 </div>
 
