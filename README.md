@@ -116,7 +116,7 @@
         </tr>
         <tr>
             <td align="center"><a href="https://akeoot.org/"><code>akeoot.org</code></a></td>
-            <td align="center"><a href=""><code>Modular AI (WIP)</code></a></td>
+            <td align="center"><a href=""><code>Fern-AI (WIP)</code></a></td>
         </tr>
         <tr>
             <td><p align="center">My own domain with my own website!<br>Currently working on it, making it look pretteh.</p></td>
