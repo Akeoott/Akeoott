@@ -8,11 +8,11 @@
 
 ---
 
-# **GPG-Encrypted Archive Guide**  
-### *Compress → Encrypt → Decrypt (Using Existing GPG Key)*  
+# **Secure GPG Encryption Guide**  
+### *Compress → Encrypt → Decrypt (Using GPG Keys Properly)*  
 
 ```bash
-# Install GPG (if missing)
+# Install required tools
 sudo apt install gnupg tar zstd xz-utils  # Debian/Ubuntu
 sudo pacman -S gnupg tar zstd xz         # Arch
 sudo dnf install gnupg tar zstd xz       # Fedora
@@ -20,79 +20,71 @@ sudo dnf install gnupg tar zstd xz       # Fedora
 
 ---
 
-## **1. Compress the File**  
-### **Option A: Fast Compression (`.tar.zst`)**  
+## **1. Compress the Data**  
+### **Fast Compression (`.tar.zst`)**  
 ```bash
 tar cvf - my_important_dir | zstd -9 -o backup.tar.zst
 ```
-- **`my_important_file.txt`** → Your input file.  
-- **`backup.tar.zst`** → Output (compressed).  
 
-### **Option B: Maximum Compression (`.tar.xz`)**  
+### **Maximum Compression (`.tar.xz`)**  
 ```bash
 tar cvf - my_important_dir | xz -9 -T0 -c > backup.tar.xz
 ```
-- **`-T0`**: Use all CPU threads.  
 
 ---
 
-## **2. Encrypt with GPG (Using Existing Key)**  
-### **Step 1: Find Your Key**  
+## **2. Encrypt with GPG**  
+### **Find Your Key ID**  
 ```bash
-gpg --list-keys
+gpg --list-keys --keyid-format LONG
+
+# If key is from github:
+gpg --list-secret-keys --keyid-format LONG
 ```
-Example output:  
+Look for:  
 ```
-pub   rsa4096 2023-01-01 [SC]
-      1234ABCD...  # <-- THIS IS YOUR KEY ID
-uid       [ultimate] Your Name <your@email.com>
+pub   rsa4096/ABCD1234ABCD1234 2023-01-01 [SC]
+      1234ABCD...  # This is your Key ID
+uid                 [ultimate] Your Name <your@email.com>
 ```
 
-### **Step 2: Encrypt**  
+### **Encrypt Using Key ID (Recommended)**  
 ```bash
-gpg --encrypt --recipient "Your Name" --output backup.tar.zst.gpg backup.tar.zst
+gpg --encrypt --recipient "ABCD1234ABCD1234" --output backup.tar.zst.gpg backup.tar.zst
 ```
-- **`backup.tar.zst`** → Compressed file from Step 1.  
-- **`backup.tar.zst.gpg`** → Encrypted output.  
+
+### **Encrypt Using Email (Alternative)**  
+```bash
+gpg --encrypt --recipient "your@email.com" --output backup.tar.zst.gpg backup.tar.zst
+```
 
 ---
 
 ## **3. Decrypt the File**  
-### **Step 1: Ensure Key is Imported**  
-*(Skip if already done)*  
-```bash
-gpg --import private_key.asc  # Replace with your key file
-```
-
-### **Step 2: Decrypt (One-Liner)**  
+### **Basic Decryption**  
 ```bash
 gpg --decrypt backup.tar.zst.gpg > decrypted_backup.tar.zst
-
-# Alternative:
-# Use if above fails to decrypt or if your not on a desktop enviorment.
-gpg --batch --passphrase "your_password" --decrypt backup.tar.zst.gpg > decrypted_backup.tar.zst
 ```
-- **`backup.tar.zst.gpg`** → Encrypted file.  
-- **`decrypted_backup.tar.zst`** → Output (compressed, ready for extraction).  
+
+### **If Using Passphrase-Protected Key**  
+```bash
+gpg --batch --pinentry-mode loopback --passphrase "your_passphrase" --decrypt backup.tar.zst.gpg > decrypted_backup.tar.zst
+```
 
 ---
 
-### **Key Notes**  
-🔐 **Security**:  
-- Never hardcode passwords in scripts (use `--passphrase-file` instead).  
-- Delete temporary files after decryption:  
+## **Security Notes**  
+- 🔐 **Always use Key IDs** instead of emails for encryption  
+- 🚫 **Never use `-c` (symmetric)** for important backups  
+- 📛 **Avoid plaintext passphrases** in commands (use `--passphrase-file` if needed)  
+- 🗑️ **Clean up temporary files**:  
   ```bash
-  shred -u backup.tar.zst
+  shred -u backup.tar.zst decrypted_backup.tar.zst
   ```
 
-⚡ **Need Automation?**  
-```bash
-# Decrypt + Decompress in One Step (No Intermediate File)
-gpg --batch --passphrase "your_password" --decrypt backup.tar.zst.gpg | zstd -d -c > my_important_dir
-```
-
 ---
 
-### **Troubleshooting**  
-❌ **"gpg: decryption failed"** → Wrong password/key.  
-❌ **"No such file"** → Check paths/filenames.
+## **Troubleshooting**  
+- 🔍 **"No secret key"**: Import your private key with `gpg --import key.asc`  
+- ❌ **Decryption fails**: Verify you're using the correct Key ID and passphrase  
+- ⚠️ **GUI prompts appear**: Add `--pinentry-mode loopback` to force CLI mode
