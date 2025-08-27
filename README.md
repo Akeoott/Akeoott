@@ -60,28 +60,28 @@
     <tbody>
         <tr>
             <th scope="row">
-                <a href="https://github.com/Akeoott">
+                <a href="https://github-readme-stats.vercel.app/api?username=Akeoott&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true">
                     <img src="https://github-readme-stats.vercel.app/api?username=Akeoott&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true" alt="Akeoott's GitHub Stats">
                 </a>
                 <h6 align="left" style="margin: 0 auto 0 auto;">Kinda Pathetic..</h6>
             </th>
             <th scope="row" rowspan="2">
             <h6 align="left" style="margin: 0 auto 0 auto;">Got a fresh start on WakaTime. No wonder this time is so SMOLL!</h6>
-                <a href="https://github.com/Akeoott">
+                <a href="https://wakatime.com/@Akeoott">
                     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akeoott&layout=compact&border_color=0d1117&&bg_color=0D1117&text_color=ffff" alt="Akeoott's WakaTime Stats">
                 </a>
             </th>
         </tr>
         <tr>
             <th scope="row" style="padding: 0;">
-                <a href="https://github.com/Akeoott">
+                <a href="https://streak-stats.demolab.com?user=Akeoott&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00&currStreakLabel=58A6FF">
                     <img src="https://streak-stats.demolab.com?user=Akeoott&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00&currStreakLabel=58A6FF" alt="Akeoott's GitHub Streak">
                 </a>
             </th>
         </tr>
         <tr>
             <th scope="row" colspan="2" style="padding: 0;">
-                <a href="https://github.com/Akeoott">
+                <a href="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff">
                     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" alt="Akeoott's GitHub Activity Graph">
                 </a>
             </th>
