@@ -1,156 +1,126 @@
 <div align="center">
-    <h2>Hello Human👋</h2>
-    <p>
-        Welcome to my GitHub profile!<br>
-        I'm Ame, also known as Akeoott.<br>
+<br>
+    <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Chiron+GoRound+TC&weight=900&size=36&duration=2500&pause=500&color=FFDEE3&background=FFDEE300&center=true&vCenter=true&width=450&lines=import+akeoott;%3C%2FAme%3E;print(%22Banane%3F%22);HELP+MEEE!!!;I+use+arch+btw...;IM+SELF+TOUGHT!;I+love+pink+%E2%9D%A4%EF%B8%8E" alt="Typing SVG" />
+    </div>
+    <br>
+    <div align="center">
+        <a href="https://discord.com/users/898223580104519711">
+            <img src="https://img.shields.io/badge/-discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge">
+        </a>
+        <a href="https://github.com/Akeoott">
+            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+        </a>
+        <a href="mailto:amejanin00@gmail.com">
+            <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge">
+        </a>
         <br>
-        VISIT MY WEBSITE! <a href="https://akeoot.org/"><code>akeoot.org</code></a>
+        <a href="https://osu.ppy.sh/users/36050791">
+            <img src="https://img.shields.io/badge/-osu!-ff66aa?style=for-the-badge&logo=osu&logoColor=white" alt="osu badge">
+        </a>
+        <a href="https://steamcommunity.com/id/Akeoot">
+            <img src="https://img.shields.io/badge/-Steam-0A66C2?style=for-the-badge&logo=steam" alt="steam badge">
+        </a>
+        <a href="https://stats.fm/akeoot">
+            <img src="https://img.shields.io/badge/-Stats.fm-181717?style=for-the-badge&logo=spotify" alt="spotify badge">
+        </a>
+    </div>
+    <div align="center">
+        <h3>Forgot to mention that my name is Ame, heh.</h3>
+    </div>
+    <a href="https://wakatime.com/@18b1aa2a-ab98-4287-a1ca-4e0759ac7380">
+        <img src="https://wakatime.com/badge/user/18b1aa2a-ab98-4287-a1ca-4e0759ac7380.svg" alt="Total time coded since Aug 6 2025">
+    </a>
+</div>
+<h2>🛠️ Tech Stack</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,vscode,bash,linux,arch,html,css,js,cs,git,github,cloudflare" alt="Icons">
+</p>
+<hr>
+<h2>🎓 Education & Experience</h2>
+<ul>
+    <li>
+        <strong>NOTHINGGGGG 💔💔💔💔💔</strong>
+        <ul>
+            <li>Im still a child...</li>
+        </ul>
+    </li>
+</ul>
+<hr>
+<table>
+    <thead>
+        <tr>
+            <th scope="col" colspan="2">
+                <p align="center">
+                    GitHub and WakaTime!
+                </p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">
+                <a href="https://github.com/Akeoott">
+                    <img src="https://github-readme-stats.vercel.app/api?username=Akeoott&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true" alt="Akeoott's GitHub Stats">
+                </a>
+                <h6 align="left" style="margin: 0 auto 0 auto;">Kinda Pathetic..</h6>
+            </th>
+            <th scope="row" rowspan="2">
+            <h6 align="left" style="margin: 0 auto 0 auto;">Got a fresh start on WakaTime. No wonder this time is so SMOLL!</h6>
+                <a href="https://github.com/Akeoott">
+                    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akeoott&layout=compact&border_color=0d1117&&bg_color=0D1117&text_color=ffff" alt="Akeoott's WakaTime Stats">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th scope="row" style="padding: 0;">
+                <a href="https://github.com/Akeoott">
+                    <img src="https://streak-stats.demolab.com?user=Akeoott&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00&currStreakLabel=58A6FF" alt="Akeoott's GitHub Streak">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th scope="row" colspan="2" style="padding: 0;">
+                <a href="https://github.com/Akeoott">
+                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" alt="Akeoott's GitHub Activity Graph">
+                </a>
+            </th>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2>A bit about me</h2>
+<div>
+    <p>
+        I'm Ame, primarily known as Akeoot (or Akeoott in development).<br>
+        I'm a self-taught developer born in 2009.<br>
+        I love linux, open source, automation, and building things that help others (and myself).<br>
+        I enjoy learning new technologies, customizing Linux, and collaborating.
+    </p>
+    <ul>
+        <li>I started coding on <strong>February 20th, 2025</strong>.</li>
+        <li>It's been an incredibly fast paced and an exciting journey since then!</li>
+        <li>My first ever "real" project, <code><a href="https://github.com/Akeoott-Projects/GitHub-Activity-Fetcher">GitHub-Activity-Fetcher</a></code>.
+            <ul>
+                <li>
+                    It saw its initial commit on <strong>April 29th, 2025</strong>,<br>
+                    marking the beginning of my active development work
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <p>
+        Basically, I love computers and the internet 💖
     </p>
 </div>
-
-<table align="center">
-    <tr>
-        <td valign="top" style="padding-right: 32px;">
-            <table>
-                <tr>
-                    <th align="left">Social</th>
-                    <th align="left">Links</th>
-                </tr>
-                <tr>
-                    <td>GitHub</td>
-                    <td><a href="https://github.com/Akeoott"><code>Akeoott</code></a></td>
-                </tr>
-                <tr>
-                    <td>PyPI</td>
-                    <td><a href="https://pypi.org/user/Akeoott/"><code>Akeoott</code></a></td>
-                </tr>
-                <tr>
-                    <td>Discord</td>
-                    <td><a href="https://discord.com/users/898223580104519711"><code>akeoot</code></a></td>
-                </tr>
-            </table>
-        </td>
-        <td valign="top">
-            <div>
-                <b>A bit about my coding journey:</b>
-                <ul>
-                    <li>I started coding on <b>February 20th, 2025</b>.</li>
-                    <li>It's been an incredibly fast paced and an exciting journey since then!</li>
-                    <li>My first ever "real" project, <code><a href="https://github.com/Akeoott-Projects/GitHub-Activity-Fetcher">GitHub-Activity-Fetcher</a></code>.
-                        <ul>
-                            <li>It saw its initial commit on <b>April 29th, 2025</b>,<br>marking the beginning of my active development work</li>
-                        </ul>
-                    </li>
-                </ul>
-                <p>
-                    My focus right now is on Python. Once I feel that I'm good enough, I want to learn C#.
-                </p>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <h2>My GitHub Organization: <a href="https://github.com/Akeoott-Projects">Akeoott-Projects</a></h2>
-            <p>
-                This organization will house more collaborative or larger projects of mine.<br>
-                It's ultimately a display of all my knowledge and how I have progressed so far.
-                <blockquote>even if im currently alone ;-;</blockquote>
-                <blockquote>$${\color{yellow}plz \space join \space me}$$</blockquote>
-                <img src="https://github.com/Akeoott/Akeoott/blob/main/images/i-located-an-almost-high-quality-image-of-the-disappearing-v0-297l8kz0ysba1.webp" width="75" />
-            </p>
-        </td>
-    </tr>
-</table>
-
-<details>
-    <summary align="center"><h2>Additional Social Links</h2></summary>
-    <table align="center"> <tr>
-            <th align="left">Social</th>
-            <th align="left">Links</th>
-        </tr>
-        <tr>
-            <td>osu!</td>
-            <td><a href="https://osu.ppy.sh/users/36050791/mania"><code>Akeoot</code></a></td>
-        </tr>
-        <tr>
-            <td>Steam</td>
-            <td><a href="https://steamcommunity.com/id/Akeoot"><code>Akeoot</code></a></td>
-        </tr>
-        <tr>
-            <td>TikTok</td>
-            <td><a href="https://www.tiktok.com/@akeoot"><code>@akeoot</code></a></td>
-        </tr>
-        <tr>
-            <td>X (Twitter)</td>
-            <td><a href="https://x.com/akeoott"><code>@akeoott</code></a></td>
-        </tr>
-        <tr>
-            <td>$${\color{yellow}Advertisements:}$$</td>
-            <td>$${\color{yellow}You \space have \space to \space think \space this \space thru}$$<br>$${\color{yellow}DOWNLOAD \space NOW!}$$</td>
-        </tr>
-        <tr>
-            <td>$${\color{red}Use \space Arch \space Linux}$$</td>
-            <td><a href="https://archlinux.org/"><code>I use arch btw</code></a></td>
-        </tr>
-        <tr>
-            <td>$${\color{red}Play \space osu!}$$</td>
-            <td><a href="https://osu.ppy.sh/"><code>Click the Circles!</code></a></td>
-        </tr>
-        <tr>
-            <td>$${\color{red}Super \space Tux \space Kart}$$</td>
-            <td><a href="https://supertuxkart.net/Download"><code>I love Tux!</code></a></td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <img src="https://github.com/Akeoott/Akeoott/blob/main/images/%252B15_Social_Credit.webp" width="300" />
-            </td>
-        </tr>
-    </table>
-</details>
-
-<details>
-    <summary align="center"><h2>My Current Projects</h2></summary>
-    <table align="center"> <tr>
-            <th><h2>Public</h2>$${\color{grey}(Open \space Source)}$$</th>
-            <th><h2>Private</h2>$${\color{grey}(Closed \space Source)}$$</th>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://akeoot.org/"><code>akeoot.org</code></a></td>
-            <td align="center"><a href="https://github.com/Akeoott-Fern-AI"><code>Fern-AI</code></a> (WIP)</td>
-        </tr>
-        <tr>
-            <td><p align="center">My own domain with my own website!<br>Currently working on it, making it look pretteh.</p></td>
-            <td><p align="center">Currently working on an AI for general purpouse tasks.<br>Still figuring things out.</p></td>
-        </tr>
-    </table>
-</details>
-
-<details>
-    <summary align="center"><h2>My GitHub stats</h2></summary>
-    <table align="center">
-        <tr>
-            <td colspan="2" align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=Akeoott&theme=dark&show_icons=true&include_all_commits=true&locale=en&count_private=true" alt="General Statistics" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akeoott&theme=tokyonight&theme=dark" alt="Streak Stats" />
-            </td>
-            <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akeoott&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=xcode&bg_color=151515" alt="Activity Graph" />
-            </td>
-        </tr>
-    </table>
-</details>
-
 <hr>
-
-<div align="center">
+<div>
+<pre><code>💻 Currently coding: Something... Can literally be anything.
+🌱 Learning: C# and JavaScript
+📫 Reach me: amejanin00@gmail.com
+🏆 I'm misserable ❤︎
+feel free to contact me</code></pre>
+</div>
+<div>
     <h3>Thanks for stopping by! Feel free to explore my repositories and connect.</h3>
 </div>
