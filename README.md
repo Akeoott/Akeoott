@@ -74,8 +74,8 @@
         </tr>
         <tr>
             <th scope="row" style="padding: 0;">
-                <a href="https://streak-stats.demolab.com?user=Akeoott&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00&currStreakLabel=58A6FF">
-                    <img src="https://streak-stats.demolab.com?user=Akeoott&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00&currStreakLabel=58A6FF" alt="Akeoott's GitHub Streak">
+                <a href="https://streak-stats.demolab.com?user=Akeoott&theme=black-ice&background=0D1117&hide_border=true">
+                    <img src="https://streak-stats.demolab.com?user=Akeoott&theme=black-ice&background=0D1117&hide_border=true" alt="Akeoott's GitHub Streak">
                 </a>
             </th>
         </tr>
