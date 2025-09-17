@@ -32,17 +32,17 @@
         <img src="https://wakatime.com/badge/user/18b1aa2a-ab98-4287-a1ca-4e0759ac7380.svg" alt="Total time coded since Aug 6 2025">
     </a>
 </div>
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech stack and stuff I use</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=py,vscode,bash,linux,arch,html,css,js,cs,git,github,cloudflare" alt="Icons">
 </p>
 <hr>
-<h2>🎓 Education & Experience</h2>
+<h2>Education and Experience</h2>
 <ul>
     <li>
         <strong>NOTHINGGGGG 💔💔💔💔💔</strong>
         <ul>
-            <li>Im still a child...</li>
+            <li>Im still a child, I got no job...</li>
         </ul>
     </li>
 </ul>
@@ -115,11 +115,11 @@
 </div>
 <hr>
 <div>
-<pre><code>💻 Currently coding: Something... Can literally be anything.
-🌱 Learning: C# and JavaScript
-📫 Reach me: amejanin00@gmail.com
-🏆 I'm misserable ❤︎
-feel free to contact me</code></pre>
+<pre><code>Currently coding: Something... Can literally be anything.
+Learning: C#
+Email: amejanin00@gmail.com
+I'm misserable ❤︎
+feel free to contact me! (Thru GitHub 🙏)</code></pre>
 </div>
 <div>
     <h3>Thanks for stopping by! Feel free to explore my repositories and connect.</h3>
