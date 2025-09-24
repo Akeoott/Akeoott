@@ -36,6 +36,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,vscode,bash,linux,arch,html,css,js,cs,git,github,cloudflare" alt="Icons">
 </p>
+<h6 style="margin: 0">I kinda don't give a fuck about obvious tech that I use. Fuk u.</h6>
 <hr>
 <h2>Education and Experience</h2>
 <ul>
@@ -48,39 +49,18 @@
 </ul>
 <hr>
 <table>
-    <thead>
-        <tr>
-            <th scope="col" colspan="2">
-                <p align="center">
-                    GitHub and WakaTime!
-                </p>
-            </th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <th scope="row">
-                <a href="https://github-readme-stats.vercel.app/api?username=Akeoott&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true">
-                    <img src="https://github-readme-stats.vercel.app/api?username=Akeoott&rank_icon=percentile&show_icons=true&theme=dark&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true" alt="Akeoott's GitHub Stats">
-                </a>
-                <h6 align="left" style="margin: 0 auto 0 auto;">Kinda Pathetic..</h6>
-            </th>
-            <th scope="row" rowspan="2">
-            <h6 align="left" style="margin: 0 auto 0 auto;">Got a fresh start on WakaTime. No wonder this time is so SMOLL!</h6>
+            <th>
+            <h3>WAKATIME SINCE AUG 6 2025</h3>
+            <h6 style="margin: 0 auto 0 auto;">Got a fresh start on WakaTime. No wonder this time is so SMOLL!</h6>
                 <a href="https://wakatime.com/@Akeoott">
                     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akeoott&layout=compact&border_color=0d1117&&bg_color=0D1117&text_color=ffff" alt="Akeoott's WakaTime Stats">
                 </a>
             </th>
         </tr>
         <tr>
-            <th scope="row" style="padding: 0;">
-                <a href="https://streak-stats.demolab.com?user=Akeoott&theme=black-ice&background=0D1117&hide_border=true">
-                    <img src="https://streak-stats.demolab.com?user=Akeoott&theme=black-ice&background=0D1117&hide_border=true" alt="Akeoott's GitHub Streak">
-                </a>
-            </th>
-        </tr>
-        <tr>
-            <th scope="row" colspan="2" style="padding: 0;">
+            <th style="padding: 0;">
                 <a href="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff">
                     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeoott&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" alt="Akeoott's GitHub Activity Graph">
                 </a>
