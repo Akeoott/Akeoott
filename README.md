@@ -54,7 +54,7 @@
             <th>
             <h3 align="left">WAKATIME SINCE AUG 6 2025</h3>
             <h6 align="left" style="margin: 0 auto 0 auto;">Got a fresh start on WakaTime. No wonder this time is so SMOLL!</h6>
-                <a href="https://wakatime.com/@Akeoott">
+                <a align="left" href="https://wakatime.com/@Akeoott">
                     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akeoott&layout=compact&border_color=0d1117&&bg_color=0D1117&text_color=ffff" alt="Akeoott's WakaTime Stats">
                 </a>
             </th>
