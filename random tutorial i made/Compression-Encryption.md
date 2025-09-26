@@ -63,7 +63,7 @@ gpg --encrypt --recipient "your@email.com" --output backup.tar.zst.gpg backup.ta
 ## **3. Decrypt the File**  
 ### **Basic Decryption**  
 ```bash
-gpg --decrypt backup.tar.zst.gpg > decrypted_backup.tar.zst
+gpg -d -o visible_secrets.tar.zst hidden_secrets.tar.zst.gpg
 ```
 
 ### **If Using Passphrase-Protected Key**  
