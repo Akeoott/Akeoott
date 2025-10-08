@@ -27,6 +27,7 @@
     </div>
     <div align="center">
         <h3>Forgot to mention that my name is Ame, heh.</h3>
+        <h6 style="margin: 0">Visit my WEBSITE fuka <a href="https://akeoot.org/" alt="My website!">akeoot.org</a></h6>
     </div>
     <a href="https://wakatime.com/@18b1aa2a-ab98-4287-a1ca-4e0759ac7380">
         <img src="https://wakatime.com/badge/user/18b1aa2a-ab98-4287-a1ca-4e0759ac7380.svg" alt="Total time coded since Aug 6 2025">
