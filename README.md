@@ -11,4 +11,4 @@ I'm still learning but making great progress.
 
 ![Design](https://skillicons.dev/icons?i=cs,dotnet,py,bash,arch,linux,cloudflare,html,css,js)
 
-**Contact: amejanin00@gmail.com**
+**Contact: ame@akeoot.org**
