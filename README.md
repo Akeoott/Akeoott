@@ -4,7 +4,7 @@
 
 Total time coded since Aug 6 2025:
 
-[![Total time coded since Aug 6 2025](https://wakatime.com/badge/user/18b1aa2a-ab98-4287-a1ca-4e0759ac7380.svg)](https://wakatime.com/@18b1aa2a-ab98-4287-a1ca4e0759ac7380)
+[![Total time coded since Aug 6 2025](https://wakatime.com/badge/user/18b1aa2a-ab98-4287-a1ca-4e0759ac7380.svg)](https://wakatime.com/@Akeoott)
 
 I am a 16 yo self-taught backend dev from Germany.
 I'm still learning but making great progress.
