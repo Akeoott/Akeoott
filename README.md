@@ -10,4 +10,4 @@ I'm still learning but making great progress.
 
 ![Design](https://skillicons.dev/icons?i=cs,dotnet,py,bash,arch,linux,cloudflare,html,css,js)
 
-**Contact: ame@akeoot.org**
+**Contact: amejanin00@gmail.com**
