@@ -6,6 +6,6 @@
 I am a self-taught backend dev from Germany currently focusing on C#.<br>
 I'm still learning but making great progress.
 
-![Design](https://skillicons.dev/icons?i=cs,dotnet,py,linux,arch,bash,cloudflare,js,ts,html,css)
+![Design](https://skillicons.dev/icons?i=cs,dotnet,py,linux,arch,bash,cloudflare,vue,js,ts,html,css)
 
 **Contact: ame@akeoot.org**
