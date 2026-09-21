@@ -8,5 +8,4 @@ I'm still learning but making great progress.
 
 ![Design](https://skillicons.dev/icons?i=rust,cs,dotnet,py,linux,arch,cloudflare,nodejs,vue,js,ts,html,css)
 
-**My Website: [akeoot.org](https://akeoot.org/)**<br>
 **Contact: akeoot@pm.me**
